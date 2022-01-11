@@ -1,2 +1,2 @@
-# Windows-Every-Hour-Backup
-Windows Every Hour Backup based on powershell and vbs
+# Windows-backup-files
+Backup selected files via powershell, vbs and scheduler.
