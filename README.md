@@ -6,3 +6,5 @@ The program was created in order to backup important files in a network folder c
 - psBackup.ps1 - main Program. Can work independently of all the others.
 - silent_psBackup.vbs - a way to run powershell scripts without any popups. You can use your own method instead.
 - psHourlyBackup.xml - my exported template for the task scheduler. You can customize your period and frequency of reservations.
+- to_backup.txt - An example of how to fill a txt with the full path of the file to be backed up.
+
